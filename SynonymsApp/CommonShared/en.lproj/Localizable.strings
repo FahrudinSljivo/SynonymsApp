@@ -1,0 +1,16 @@
+"SEARCH_SYNONYMS.TITLE" = "Search Synonyms";
+"SEARCH_SYNONYMS.SYNONYM_RESULTS_TITLE" = "Following words are synonyms: ";
+"SEARCH_SYNONYMS.SEARCH" = "Search...";
+"SEARCH_SYNONYMS.NO_RESULTS_FOUND" = "No results found";
+"SEARCH_SYNONYMS.TYPE_IN_TO_GET_STARTED" = "Type in to get started...";
+
+"ADD_SYNONYM.ENTER_NEW_WORD" = "Enter a new word";
+"ADD_SYNONYM.ENTER_SYNONYMS" = "Enter synonyms";
+"ADD_SYNONYM.ENTER_SYNONYMS_SEPARATED" = "Enter synonyms separated by comma";
+"ADD_SYNONYM.ADD_SYNONYM" = "Add Synonym";
+"ADD_SYNONYM.BLANK_INPUT_ERROR_MESSAGE" = "You can't leave input fields blank.";
+"ADD_SYNONYM.INVALID_INPUT_ERROR_MESSAGE" = "Selected words would require merge of existing synonym sets.";
+"ADD_SYNONYM.ALERT_TITLE" = "Are you sure?";
+"ADD_SYNONYM.ALERT_TEXT" = "New synonyms are to be added to existing set as there is a non-empty intersection of newly added words with that existing set. Tap confirm to continue:";
+"ADD_SYNONYM.ALERT_CONFIRM" = "Confirm";
+"ADD_SYNONYM.ALERT_CANCEL" = "Cancel";
